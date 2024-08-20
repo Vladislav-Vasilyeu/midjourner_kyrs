@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'MjSans';
+  font-style: normal;
+  font-weight: 250 1000;
+  src: url('../fonts/sans/MjSans-VF.woff2') format('woff2-variations'),
+       url('../fonts/sans/MjSans-VF.woff') format('woff-variations');     
+}
+@font-face {
+  font-family: 'MjSans';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../fonts/sans/MjSans-Light.eot');
+  src: url('../fonts/sans/MjSans-Light-1.eot') format('embedded-opentype'),
+       url('../fonts/sans/MjSans-VF.woff2') format('woff2-variations'),
+       url('../fonts/sans/MjSans-VF.woff') format('woff-variations'),
+       url('../fonts/sans/MjSans-Light.woff2') format('woff2'),
+       url('../fonts/sans/MjSans-Light.woff') format('woff');
+}
+@font-face {
+  font-family: 'MjSans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/sans/MjSans-Regular.eot');
+  src: url('../fonts/sans/MjSans-Regular-1.eot') format('embedded-opentype'),
+       url('../fonts/sans/MjSans-VF.woff2') format('woff2-variations'),
+       url('../fonts/sans/MjSans-VF.woff') format('woff-variations'),  
+       url('../fonts/sans/MjSans-Regular.woff2') format('woff2'),
+       url('../fonts/sans/MjSans-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'MjSans';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/sans/MjSans-Medium.eot');
+  src: url('../fonts/sans/MjSans-Medium-1.eot') format('embedded-opentype'),
+       url('../fonts/sans/MjSans-VF.woff2') format('woff2-variations'),
+       url('../fonts/sans/MjSans-VF.woff') format('woff-variations'),  
+       url('../fonts/sans/MjSans-Medium.woff2') format('woff2'),
+       url('../fonts/sans/MjSans-Medium.woff') format('woff');
+}
+@font-face {
+  font-family: 'MjSans';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/sans/MjSans-Semibold.eot');
+  src: url('../fonts/sans/MjSans-Semibold-1.eot') format('embedded-opentype'),
+       url('../fonts/sans/MjSans-VF.woff2') format('woff2-variations'),
+       url('../fonts/sans/MjSans-VF.woff') format('woff-variations'),  
+       url('../fonts/sans/MjSans-Semibold.woff2') format('woff2'),
+       url('../fonts/sans/MjSans-Semibold.woff') format('woff');
+}
+@font-face {
+  font-family: 'MjSans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/sans/MjSans-Bold.eot');
+  src: url('../fonts/sans/MjSans-Bold-1.eot') format('embedded-opentype'),
+       url('../fonts/sans/MjSans-VF.woff2') format('woff2-variations'),
+       url('../fonts/sans/MjSans-VF.woff') format('woff-variations'),  
+       url('../fonts/sans/MjSans-Bold.woff2') format('woff2'),
+       url('../fonts/sans/MjSans-Bold.woff') format('woff');
+}
+@font-face {
+  font-family: 'MjSans';
+  font-style: normal;
+  font-weight: 800;
+  src: url('../fonts/sans/MjSans-Extrabold.eot');
+  src: url('../fonts/sans/MjSans-Extrabold-1.eot') format('embedded-opentype'),
+       url('../fonts/sans/MjSans-VF.woff2') format('woff2-variations'),
+       url('../fonts/sans/MjSans-VF.woff') format('woff-variations'),  
+       url('../fonts/sans/MjSans-Extrabold.woff2') format('woff2'),
+       url('../fonts/sans/MjSans-Extrabold.woff') format('woff');
+}
+@font-face {
+  font-family: 'MjSans';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/sans/MjSans-Black.eot');
+  src: url('../fonts/sans/MjSans-Black-1.eot') format('embedded-opentype'),
+       url('../fonts/sans/MjSans-VF.woff2') format('woff2-variations'),
+       url('../fonts/sans/MjSans-VF.woff') format('woff-variations'),  
+       url('../fonts/sans/MjSans-Black.woff2') format('woff2'),
+       url('../fonts/sans/MjSans-Black.woff') format('woff');
+}
